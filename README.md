@@ -1,2 +1,1 @@
-"# a-pair-of-cards" 
-# a-pair-of-cards
+Cards game written in Java
